@@ -123,16 +123,5 @@
 
 ---
 
-## 感谢与支持
-- **Black Horse**
-- Langchain/LangGraph
-- Streamlit
-- Chrome
-- Aliyun
 
----
 
-### ⭐ Final
-- 本项目仅为学习与交流，如果觉得这个项目有帮助，别忘了点个Star！
-
----
